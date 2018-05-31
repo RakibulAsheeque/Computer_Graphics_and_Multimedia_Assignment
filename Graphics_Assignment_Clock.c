@@ -1,8 +1,12 @@
+
+/*Please note that no comments have been added as of 31/05/2018 23:45
+  Any comments present are for program creator's understanding only.
+  Please ignore them.
+  Comments for uderstanding the code will be added later.*/ 
 #include<graphics.h>
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
-
 void hcom1(int h,int v,int tx,int ty)
 {
 //Horizontal component1
